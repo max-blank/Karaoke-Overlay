@@ -1,2 +1,2 @@
 # Karaoke-Overlay
-Programme en python simple et léger qui permet d'afficher les paroles d'une musique en cours provenant de la version navigateur de Youtube Music ou Spotify, façon karaoké, sur une position donnée de l'écran, grace à un système d'overlay personnalisable, et directement contrôlable depuis la zone de notification. 
+A simple and lightweight Python program that allows you to display the lyrics of a song currently playing from the browser version of Youtube Music or Spotify, karaoke-style, on a given position of the screen, thanks to a customizable overlay system, and directly controllable from the notification area.
