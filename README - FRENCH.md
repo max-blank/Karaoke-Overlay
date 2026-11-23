@@ -12,6 +12,8 @@ Je l'ai faite avant tout pour répondre à un besoin personnel, et pour enfin so
 
 ![Exemple n°1](Example-1.jpg) 
 ![Exemple n°2](Example-2.jpg) 
+![Exemple n°1](Example-3.jpg) 
+![Exemple n°2](Example-4.jpg) 
 
 ## 🛠️ Technologies utilisées
 
