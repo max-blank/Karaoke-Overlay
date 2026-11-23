@@ -17,7 +17,7 @@ Je l'ai faite avant tout pour répondre à un besoin personnel, et pour enfin so
 
 Ce projet a été réalisé avec :
 
-- ⚡ Python
+- ⚡ Python + Javascript
 - 🖥️ Inno Setup
 - 📦 pyinstaller
 - ⚙️ npm
