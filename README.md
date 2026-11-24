@@ -64,7 +64,7 @@ You can move the overlay (the lyrics) or lock it in place. When its position is 
 4. Add the extension to your browser to connect it to the app. Open your browser’s extension settings.
 - For Chromium-based browsers: First extract the extension archive to a folder wherever you like. Then open your browser’s Extensions page and select “Manage extensions”. Turn on Developer mode in the top-right corner, choose “Load unpacked”, and select the extension folder.
 - For Firefox: ???
-6. Launch Karaoke-Overlay. A music-note icon should appear in the system tray at the bottom-right of your screen.
+5. Launch Karaoke-Overlay. A music-note icon should appear in the system tray at the bottom-right of your screen.
 
 **VIRUSTOTAL:**  
 COMING SOON
