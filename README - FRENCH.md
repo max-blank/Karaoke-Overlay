@@ -52,7 +52,7 @@ Je précise bien : CE PROGRAMME N'EST PAS FAIT POUR FONCTIONNER AVEC LES INSTALL
 
 Une fois ouvert, le programme se fixe discrètement au systray. Un clic gauche sur l'icône (une note de musique) permet d'afficher ou masquer instantanément l'affichage des paroles, tandis qu'un clic droit sur l'icone permet de faire apparaitre un menu contextuel pour modifier une multitudes de préférences, comme par exemple ajuster les couleurs du texte ou de son arrière plan, la police, la taille et la transparence.
 
-![Aperçu de l'overlay](Menu-contextuel.jpg) 
+![Aperçu de l'overlay](menu-français.jpg) 
 
 Il est possible également d'afficher la progression des paroles en mode défilement, ou la couleur d'un texte de fond est progressivement remplacée à mesure que la musique progresse.
 
