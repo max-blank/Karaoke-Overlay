@@ -1,4 +1,4 @@
-# Karaoke-Overlay
+# 🎤 Karaoke-Overlay 🎤
 
 If you would like to see the description in english, click here. → [Follow this link !](README.md)
 
