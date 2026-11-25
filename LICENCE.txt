@@ -4,6 +4,8 @@ Copyright © 2026 Maxime Godet. All rights reserved.
 
 Any commercial use is prohibited without my prior written consent. This includes, but is not limited to, selling the software or a modified version, including it in a paid product or service, and using it to provide a commercial service.
 
+The software is provided "as is," without warranty. To the extent permitted by law, the author shall not be liable for any damages arising from its use.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Licence d’utilisation non commerciale
@@ -11,3 +13,5 @@ Any commercial use is prohibited without my prior written consent. This includes
 Copyright © 2026 Maxime Godet. Tous droits réservés.
 
 Toute utilisation commerciale est interdite sans mon autorisation écrite préalable. Cela inclut notamment la vente du logiciel ou d’une version modifiée, son inclusion dans un produit ou service payant, et son utilisation pour fournir un service commercial.
+
+Le logiciel est fourni « en l’état », sans garantie. Dans la mesure permise par la loi, l’auteur ne pourra être tenu responsable des dommages liés à son utilisation.
