@@ -65,7 +65,7 @@ On peut aussi déplacer la position de l'overlay (du texte) ou la verrouiller. Q
 3. Lancez l'executable pour commencer l'installation du Karaoke Overlay, mais ne lancez pas l'application tout de suite une fois installée.
 4. Il convient maintenant d'ajouter l'extension à votre navigateur pour faire la liaison entre le navigateur et l'appli. Allez donc dans les options d'extension du navigateur internet que vous utilisez.
 - Pour un navigateur Chromium : Il faut d'abord extraire le dossier de l'archive contenant l'extension. Mettez le où vous voulez. Allez ensuite sur votre navigateur, puis dans "Extensions", puis "Gérer les extensions". Une fois sur la page dédiée, cochez le mode développeur en haut à droite, puis choisissez "Charger l'extension non empaquetée" et sélectionnez le dossier de l'extension.
-- Pour un navigateur Firefox : ???
+- Pour un navigateur Firefox : Je n'ai pas encore trouvé de solution simple, car la procédure pour ajouter une extension non signée est assez fastidieuse.
 5. Lancez l'application Karaoké-Overlay. Une icone avec une note de musique devrait apparaitre en bas à droite dans la zone de notification.
 
 **VIRUSTOTAL :**  
