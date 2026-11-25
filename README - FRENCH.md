@@ -99,4 +99,4 @@ Si vous appréciez ce que j’ai réalisé, souhaitez me soutenir et m’aider e
 
 ## 📄 Licence
 
-Licence exclusive, © 2026 Maxime Godet, Tous droits réservés.
+Licence exclusive, © 2026 Maxime Godet, Tous droits réservés. Consultez le fichier LICENSE pour plus d’informations.
