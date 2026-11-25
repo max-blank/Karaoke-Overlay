@@ -97,4 +97,4 @@ If you like what I’ve made and would like to support, help, or encourage me to
 
 ## 📄 License
 
-Proprietary License, © 2026 Maxime Godet, All right reserved.
+Exclusive license, © 2026 Maxime Godet, All rights reserved. See the LICENSE file for more information.
