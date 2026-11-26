@@ -44,7 +44,7 @@ It works as an overlay that displays synchronized lyrics without getting in your
 
 The program works with a browser extension. When connected, the service worker displays the message: “Connected to the Python program.”
 I use Spotify and YouTube Music directly in my browser (Brave).
-To be clear: THIS PROGRAM IS NOT DESIGNED TO WORK WITH THE SPOTIFY OR YOUTUBE APPS—ONLY WITH THEIR WEB PAGES.
+To be clear: THIS PROGRAM IS NOT DESIGNED TO WORK WITH THE SPOTIFY OR YOUTUBE APPS—ONLY WITH THEIR WEB PAGES, AND FOR NOW IT'S ONLY WORKING ON CHROME.
 
 ## 🚀 Main features
 
@@ -67,15 +67,20 @@ You can move the overlay (the lyrics) or lock it in place. When its position is 
 5. Launch Karaoke-Overlay. A music-note icon should appear in the system tray at the bottom-right of your screen.
 
 **VIRUSTOTAL:**  
-COMING SOON
+79af9b8e784dd29d24ae3d59282b090a13a267f972034304f0b6c7d72a0b793d
+
+Sadly 10 antiviruses are flagging my file, which is understandable since it's an overlay that's checking if a song is played from Youtube of Spotify at any given time.
+I think this is the biggest downside for me. But is it even possible to release a software like this that come up clean, knowing that it has to get information on songs currently played?
+Well, i prefer to choose transparency on this. If you decide not to trust my software, you have the right to do so.
 
 ## ⚠️ Known limitations
 
 - The application is currently available only for Windows.
+- Only works on Chrome for now. I tried to make it work on Firefox, but there's too many restrictions as the extension that comes with the app is not signed.
 - The overlay is designed to work only with the web versions/web apps of Spotify and YouTube Music, not their desktop applications.
-- Installation
 - The lyrics provider may not always find lyrics for a song. Changing to another song and then back again may solve the problem.
 - Scrolling lyrics do not support word-by-word highlighting. I haven’t found a way to track speech precisely enough to achieve that. Instead, the highlighting progresses proportionally according to the assigned length of each lyric line.
+- VirusTotal is flagging my file, and i have absolutely no idea on what i can do to fix this.
 
 ## 🚀 Possible future improvements
 
@@ -88,7 +93,7 @@ COMING SOON
 
 👤 Hi, I’m max-blank, and this is my second Windows application. My first was Birthday Reminder, made with Electron.js.
 
-I’m a complete beginner at all of this—the code, using GitHub, and everything else. But I’m doing my best!
+I’m a complete beginner at all of this: the code, using GitHub, and everything else. But I’m doing my best!
 
 If you like what I’ve made and would like to support, help, or encourage me to create more projects like this:
 
@@ -96,5 +101,7 @@ If you like what I’ve made and would like to support, help, or encourage me to
 - 💙 [PayPal](https://paypal.me/maxblank0)
 
 ## 📄 License
+
+(My position about the licence to use is still unclear at the moment. For now it's proprietary, maybe i'll put it free and open source at some point.)
 
 Exclusive license, © 2026 Maxime Godet, All rights reserved. See the LICENSE file for more information.
