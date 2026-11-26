@@ -34,7 +34,6 @@ requests==2.34.2
 shiboken6==6.11.2
 urllib3==2.7.0
 websockets==17.1
-
 - ❤️ Une pointe de passion.
 
 ## ✨ Présentation
@@ -69,22 +68,29 @@ On peut aussi déplacer la position de l'overlay (du texte) ou la verrouiller. Q
 5. Lancez l'application Karaoké-Overlay. Une icone avec une note de musique devrait apparaitre en bas à droite dans la zone de notification.
 
 **VIRUSTOTAL :**  
-COMING SOON
+79af9b8e784dd29d24ae3d59282b090a13a267f972034304f0b6c7d72a0b793d
+
+Malheureusement, 10 antivirus signalent mon fichier, ce qui est compréhensible puisqu'il s'agit d'une application qui vérifie si une chanson est en cours de lecture sur YouTube ou Spotify.
+
+Je pense que c'est actuellement le plus gros inconvenient de ce projet. Mais est-il vraiment possible de publier un logiciel comme celui-ci qui ne soit pas détecté comme malveillant, sachant qu'il doit obtenir des informations sur les chansons en cours de lecture ?
+
+Eh bien, je préfère la transparence. Si vous décidez de ne pas faire confiance à mon logiciel, vous en avez le droit.
 
 ## ⚠️ Limitations connues
 
 - L'application n'est disponible que pour Windows actuellement.
+- Pour l'instant, cela ne fonctionne que sur Chrome. J'ai essayé de le faire fonctionner sur Firefox, mais il y a trop de restrictions car l'extension fournie avec l'application n'est pas signée.
 - L'overlay n'est fait pour fonctionner qu'avec les versions Web/WebApp de Spotify et Youtube Music, pas pour les applications.
-- L'installation
 - Il arrive que le fournisseur de paroles ne trouve pas toujours les paroles d'une musique. Changer de musique et revenir peut solutionner le problème.
 - Le défilement des paroles ne permet pas de faire du mot à mot, je n'ai pas trouvé de solution pour faire cela et de suivre/avancer exactement et précisément quand une personne parle. Le défilement avance proportionnellement en fonction de la longueur qui a été attribué à chaque ligne des paroles.
+- VirusTotal signale mon fichier comme suspect, et je n'ai absolument aucune idée de ce que je peux faire pour résoudre ce problème.
 
 ## 🚀 Améliorations possibles à l’avenir
 
-- Ouvrir l'application pour Linux, Apple ou Android.
+- Ouvrir l'application à Linux, Apple ou Android.
 - Ajouter d'autres fournisseur de paroles afin de renforcer la fiabilité d'un potentiel match.
 - Arriver à faire en sorte que le mot à mot fonctionne parfaitement donnerai vraiment cette impression de Karaoké immersif.
-- Automatiser l'installation de l'extension, qui demanderait à l'utilisateur quel navigateur il utilise, et proposerait alors une installation adaptée.
+- Automatiser l'installation de l'extension, avec une extension signée, qui demanderait à l'utilisateur quel navigateur il utilise, et proposerait alors une installation adaptée.
 
 ## 🤝 Contribution
 
@@ -98,5 +104,7 @@ Si vous appréciez ce que j’ai réalisé, souhaitez me soutenir et m’aider e
 - 💙 [PayPal](https://paypal.me/maxblank0)
 
 ## 📄 Licence
+
+(Ma position concernant la licence d'utilisation reste floue pour le moment. Actuellement, elle est propriétaire ; je la rendrai peut-être libre et open source plus tard.)
 
 Licence exclusive, © 2026 Maxime Godet, Tous droits réservés. Consultez le fichier LICENSE pour plus d’informations.
