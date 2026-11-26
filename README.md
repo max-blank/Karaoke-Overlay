@@ -87,7 +87,7 @@ Well, i prefer to choose transparency on this. If you decide not to trust my sof
 - Make the application available for Linux, Apple platforms, or Android.
 - Add other lyric providers to improve the chances of finding a match.
 - Make word-by-word highlighting work perfectly, which would create a much more immersive karaoke experience.
-- Automate the extension installation by asking users which browser they use and then offering the appropriate installation method.
+- Automate the extension installation, with a signed extension, working on any web browser, that would ask users which browser they use and then offer the appropriate installation method.
 
 ## 🤝 Contributions
 
