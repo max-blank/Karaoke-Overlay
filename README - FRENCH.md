@@ -4,6 +4,7 @@ If you would like to see the description in english, click here. → [Follow thi
 
 Karaoke-Overlay est un programme en python simple et léger qui permet d'afficher les paroles d'une musique en cours provenant de la version navigateur de Youtube Music ou Spotify, façon karaoké, sur une position donnée de l'écran, grace à un système d'overlay personnalisable, et directement contrôlable depuis la zone de notification.
 
+C'est actuellement la seconde application que j'ai décidé de partagé après mon Birthday Reminder.
 Cette application a été "vibe codée" entièrement, autrement je n'aurais pas pu la mettre en place, mes connaissances en développement étant insuffisantes, et ma patience, mon temps et mon attention limités concernant l'apprentissage d'une quelconque forme de code.
 
 Je l'ai faite avant tout pour répondre à un besoin personnel, et pour enfin sortir de ma tête cette idée que j'avais depuis un moment, et pour laquelle je ne trouvais pas d'applications existantes proposant cela.
@@ -45,7 +46,7 @@ Il se comporte comme un overlay qui affiche les paroles d'une musique en cours d
 
 Le programme fonctionne avec une extension de navigateur, le service worker indique alors : "Connecté au programme Python."
 J'utilise Spotify et Youtube music directement depuis mon navigateur internet (Brave). 
-Je précise bien : CE PROGRAMME N'EST PAS FAIT POUR FONCTIONNER AVEC LES INSTALLATEURS SPOTIFY ET YOUTUBE, SEULEMENT DEPUIS LES PAGES WEB.
+Je précise bien : CE PROGRAMME N'EST PAS FAIT POUR FONCTIONNER AVEC LES INSTALLATEURS SPOTIFY ET YOUTUBE, SEULEMENT DEPUIS LES PAGES WEB. ET POUR L'INSTANT CELA NE FONCTIONNE QUE SUR CHROME.
 
 ## 🚀 Fonctionnalités principales
 
