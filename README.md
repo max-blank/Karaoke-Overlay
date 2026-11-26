@@ -4,6 +4,7 @@ Si vous souhaitez une description en français, cliquer ici -> [Suivez ce lien !
 
 Karaoke-Overlay is a simple, lightweight Python program that displays lyrics from a song playing in the web version of YouTube Music or Spotify. Like a karaoke display, the lyrics appear in a chosen position on your screen in a customizable overlay, which can be controlled directly from the system tray.
 
+This is currently the second app I've decided to share after my Birthday Reminder.
 I created this application entirely through “vibe coding”; otherwise, I wouldn’t have been able to build it, since my programming skills are limited and I have limited patience, time, and attention for learning to code.
 
 I made it primarily to meet a personal need and finally bring to life an idea I’d had for a while, but for which I couldn’t find an existing application.
