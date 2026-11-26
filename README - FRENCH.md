@@ -90,7 +90,7 @@ Eh bien, je préfère la transparence. Si vous décidez de ne pas faire confianc
 - Ouvrir l'application à Linux, Apple ou Android.
 - Ajouter d'autres fournisseur de paroles afin de renforcer la fiabilité d'un potentiel match.
 - Arriver à faire en sorte que le mot à mot fonctionne parfaitement donnerai vraiment cette impression de Karaoké immersif.
-- Automatiser l'installation de l'extension, avec une extension signée, qui demanderait à l'utilisateur quel navigateur il utilise, et proposerait alors une installation adaptée.
+- Automatiser l'installation de l'extension, avec une extension signée, fonctionnelle sur n'importe quel navigateur, et qui demanderait à l'utilisateur quel navigateur il utilise, et proposerait alors une installation adaptée.
 
 ## 🤝 Contribution
 
